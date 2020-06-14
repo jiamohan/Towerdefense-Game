@@ -1,0 +1,6 @@
+添加了类selectbox，turret2
+类selectbox：点击砖块出现选择框，可选择两个不同炮塔
+类turret2：第二类炮塔，攻击力更强
+mainwindow中添加函数DrawSelectBox绘制选择框
+在monster.cpp中又添加了三个生命值不同的怪物
+试图添加背景音乐但播放有些问题
